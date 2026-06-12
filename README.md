@@ -1,27 +1,66 @@
-<h1 align="center">Hi 👋, I'm parsa</h1>
-<h3 align="center">A passionate python developer from Iran</h3>
+# 👋 Hey, I'm Ronin
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parsaazima&label=Profile%20views&color=0e75b6&style=flat" alt="parsaazima" /> </p>
+🚀 Programmer | Cybersecurity Enthusiast | Linux User
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parsaazima" alt="parsaazima" /></a> </p>
+I'm passionate about building software, learning low-level programming, exploring cybersecurity, and creating useful tools.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 💻 Tech Stack
 
-- 🌱 I’m currently learning **Django**
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 👨‍💻 All of my projects are available at [ParsaAzima](ParsaAzima)
+### Frameworks & Tools
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🔥 Current Interests
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parsaazima&show_icons=true&locale=en&layout=compact" alt="parsaazima" /></p>
+- Cybersecurity & CEH
+- Web Development
+- Rust Programming
+- Linux & System Programming
+- ESP32 Projects
+- Open Source
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parsaazima&show_icons=true&locale=en" alt="parsaazima" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parsaazima&" alt="parsaazima" /></p>
+## 📊 GitHub Stats
 
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🛠 Featured Projects
+
+### 🤖 PhantomBot
+Telegram Bot with moderation, AI integration and utility features.
+
+### ⚡ ByteForge
+Programming projects, tools and experiments.
+
+### 🔐 Security Lab
+Cybersecurity learning projects and writeups.
+
+---
+
+## 🎯 Goals
+
+- Improve Rust skills
+- Build more open-source projects
+- Learn advanced cybersecurity concepts
+- Create useful developer tools
+
+---
+
+> "Code. Learn. Build. Repeat."
